@@ -26,4 +26,4 @@ The model information is stored in the [composition file](composition.json), whi
 ## Software references:
 - [Martinize2](https://github.com/marrink-lab/vermouth-martinize)
 - [Polyply](https://github.com/marrink-lab/polyply_1.0)
-- [TS2CG](https://github.com/marrink-lab/TS2CG)
+- [TS2CG](https://github.com/marrink-lab/TS2CG1.1)
