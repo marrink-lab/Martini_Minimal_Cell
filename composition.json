@@ -1,0 +1,1609 @@
+{
+    "Chromosome": {
+        "GenBank": "CP016816.2",
+        "length (base pairs)": "543379"
+    },
+    "Envlope": {
+        "lipids":{
+            "Lower leaflet": {
+                "Distearoyl phosphatidylcholine":  {
+                    "# Copies": 45831,
+                    "molname": "DPPC",
+                    "area per lipid (APl)": 0.14
+                },
+                "N-stearoyl-D-erythro sphingomyelin":  {
+                    "# Copies": 91663,
+                    "molname": "DPSM",
+                    "area per lipid (APl)": 0.28
+                },
+                "Dipalmitoyl phosphatidylglycerol":  {
+                    "# Copies": 39284,
+                    "molname": "DPPG",
+                    "area per lipid (APl)": 0.12
+                },
+                "Cardiolipin (charge 0-)":  {
+                    "# Copies": 88390,
+                    "molname": "CDL0",
+                    "area per lipid (APl)": 0.27
+                },
+                "Cholesterol":  {
+                    "# Copies": 62200,
+                    "molname": "CHOL",
+                    "area per lipid (APl)": 0.19
+                }
+            },
+            "Upper leaflet": {
+                "Distearoyl phosphatidylcholine":  {
+                    "# Copies": 46029,
+                    "molname": "DPPC",
+                    "area per lipid (APl)": 0.14
+                },
+                "N-stearoyl-D-erythro sphingomyelin":  {
+                    "# Copies": 92058,
+                    "molname": "DPSM",
+                    "area per lipid (APl)": 0.28
+                },
+                "Dipalmitoyl phosphatidylglycerol":  {
+                    "# Copies": 39453,
+                    "molname": "DPPG",
+                    "area per lipid (APl)": 0.12
+                },
+                "Cardiolipin (charge 0-)":  {
+                    "# Copies": 88771,
+                    "molname": "CDL0",
+                    "area per lipid (APl)": 0.27
+                },
+                "Cholesterol":  {
+                    "# Copies": 62468,
+                    "molname": "CHOL",
+                    "area per lipid (APl)": 0.19
+                }
+            }
+        },
+        "membrane proteins": {
+            "Spermidine/putrescine ABC transporter permease":{
+                "# Copies": 500,
+                "PDB id / molname": "1POY"
+             },
+            "magnesium-importing ATPase":{
+                "# Copies": 400,
+                "PDB id / molname": "2XZB"
+             },
+            "Thiamine ABC transporter ATP-binding protein":{
+                "# Copies": 200,
+                "PDB id / molname": "5WS4"
+             },
+            "PTS sugar transporter":{
+                "# Copies": 100,
+                "PDB id / molname": "6BVG"
+             },
+            "Phosphatidylglycerophosphatase":{
+                "# Copies": 1000,
+                "PDB id / molname": "5JKI"
+             }
+    },
+    "Cytosol": {
+        "metabolites": {
+            "Glutamate": {
+                "# Copies": 60403,
+                "molname": "GLU"
+            },
+            "Glutamine": {
+                "# Copies": 38166,
+                "molname": "GLN"
+            },
+            "Asparagine": {
+                "# Copies": 52646,
+                "molname": "ASN"
+            },
+            "Arginine": {
+                "# Copies": 73912,
+                "molname": "ARG"
+            },
+            "Histidine": {
+                "# Copies": 135065,
+                "molname": "HIS"
+            },
+            "Valine": {
+                "# Copies": 87282,
+                "molname": "VAL"
+            },
+            "Serine": {
+                "# Copies": 22348,
+                "molname": "SER"
+            },
+            "Leucine": {
+                "# Copies": 74404,
+                "molname": "LEU"
+            },
+            "Aspartate": {
+                "# Copies": 5633,
+                "molname": "ASP"
+            },
+            "Glycine": {
+                "# Copies": 71351,
+                "molname": "GLY"
+            },
+            "Alanine": {
+                "# Copies": 56553,
+                "molname": "ALA"
+            },
+            "Lysine": {
+                "# Copies": 61788,
+                "molname": "LYS"
+            },
+            "Proline": {
+                "# Copies": 90419,
+                "molname": "PRO"
+            },
+            "Threonine": {
+                "# Copies": 18367,
+                "molname": "THR"
+            },
+            "Tryptophan": {
+                "# Copies": 53590,
+                "molname": "TRP"
+            },
+            "Isoleucine": {
+                "# Copies": 70592,
+                "molname": "ILE"
+            },
+            "Cysteine": {
+                "# Copies": 134187,
+                "molname": "CYS"
+            },
+            "Phenylalanine": {
+                "# Copies": 17747,
+                "molname": "PHE"
+            },
+            "Tyrosine": {
+                "# Copies": 70999,
+                "molname": "TYR"
+            },
+            "Methionine": {
+                "# Copies": 165532,
+                "molname": "MET"
+            },
+            "Flavin Adenine Dinucleotide (ox)": {
+                "# Copies": 818,
+                "molname": "FAD"
+            },
+            "Riboflavin (ox)": {
+                "# Copies": 73,
+                "molname": "RBFL"
+            },
+            "Nicotinamide Adenine Dinucleotide (ox) (alternate configuration)": {
+                "# Copies": 35791,
+                "molname": "Alt_NAD"
+            },
+            "Nicotinamide Adenine Dinucleotide (r)": {
+                "# Copies": 392,
+                "molname": "NADH"
+            },
+            "Nicotinamide Adenine Dinucleotide-phosphate (r)": {
+                "# Copies": 577,
+                "molname": "NADPH"
+            },
+            "Adenosine Triphosphate": {
+                "# Copies": 246357,
+                "molname": "ATP"
+            },
+            "Adenosine Monophosphate": {
+                "# Copies": 7003,
+                "molname": "AMP"
+            },
+            "Nicotinamide Adenine Dinucleotide-phosphate (ox)": {
+                "# Copies": 29322,
+                "molname": "ADP"
+            },
+            "Flavin Mononucleotide (ox)": {
+                "# Copies": 12554,
+                "molname": "FMN"
+            },
+            "Nicotinamide Adenine Dinucleotide-phosphate (ox) (alternate configuration)": {
+                "# Copies": 5813,
+                "molname": "Alt_NADP"
+            }
+        },
+        "cytosolic proteins": {
+            "Ribosome": {
+                "# Copies": 503,
+                "PDB id / molname": "4V42"
+            },
+            "Tryptophan--tRNA ligase": {
+                "# Copies": 30,
+                "Locus Tag/ molname": "syn308",
+                "Primary Function": "Metabolism"
+            },
+            "Flap endonuclease and 5' exonuclease ": {
+                "# Copies": 71,
+                "Locus Tag/ molname": "syn97",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L14": {
+                "# Copies": 100,
+                "Locus Tag/ molname": "syn661",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA gyrase subunit B": {
+                "# Copies": 244,
+                "Locus Tag/ molname": "syn6",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribosome biogenesis GTPase": {
+                "# Copies": 34,
+                "Locus Tag/ molname": "syn348",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Cell division DivIVA/GpsB protein ": {
+                "# Copies": 69,
+                "Locus Tag/ molname": "syn353",
+                "Primary Function": "Cellular Processes"
+            },
+            "RNA polymerase subunit sigma": {
+                "# Copies": 227,
+                "Locus Tag/ molname": "syn407",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "6-Phosphofructokinase": {
+                "# Copies": 458,
+                "Locus Tag/ molname": "syn220",
+                "Primary Function": "Metabolism"
+            },
+            "Valine--tRNA ligase": {
+                "# Copies": 228,
+                "Locus Tag/ molname": "syn260",
+                "Primary Function": "Metabolism"
+            },
+            "dUTP diphosphatase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn447",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L1": {
+                "# Copies": 658,
+                "Locus Tag/ molname": "syn809",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glyceraldehyde-3-phosphate dehydrogenase": {
+                "# Copies": 248,
+                "Locus Tag/ molname": "syn451",
+                "Primary Function": "Metabolism"
+            },
+            "Prolidase ": {
+                "# Copies": 413,
+                "Locus Tag/ molname": "syn305",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Translation elongation factor Ts": {
+                "# Copies": 514,
+                "Locus Tag/ molname": "syn539",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA-directed RNA polymerase subunit beta": {
+                "# Copies": 529,
+                "Locus Tag/ molname": "syn804",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA uridine(34) 5-carboxymethylaminomethyl synthesis GTPase": {
+                "# Copies": 152,
+                "Locus Tag/ molname": "syn81",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S9": {
+                "# Copies": 426,
+                "Locus Tag/ molname": "syn637",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Alanine--tRNA ligase": {
+                "# Copies": 434,
+                "Locus Tag/ molname": "syn163",
+                "Primary Function": "Metabolism"
+            },
+            "Ribonuclease J": {
+                "# Copies": 120,
+                "Locus Tag/ molname": "syn600",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized peptidase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn154",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribonucleoside-diphosphate reductase subunit beta": {
+                "# Copies": 297,
+                "Locus Tag/ molname": "syn773",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Phosphopentomutase": {
+                "# Copies": 274,
+                "Locus Tag/ molname": "syn733",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized pseudouridine synthase": {
+                "# Copies": 36,
+                "Locus Tag/ molname": "syn692",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L9": {
+                "# Copies": 122,
+                "Locus Tag/ molname": "syn833",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Low specificity hydrolase ": {
+                "# Copies": 105,
+                "Locus Tag/ molname": "syn728",
+                "Primary Function": "Unclear"
+            },
+            "Cytidine deaminase": {
+                "# Copies": 128,
+                "Locus Tag/ molname": "syn515",
+                "Primary Function": "Metabolism"
+            },
+            "Asparagine--tRNA ligase": {
+                "# Copies": 739,
+                "Locus Tag/ molname": "syn76",
+                "Primary Function": "Metabolism"
+            },
+            "Peptide deformylase": {
+                "# Copies": 156,
+                "Locus Tag/ molname": "syn201",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "RNase J family beta-CASP ribonuclease": {
+                "# Copies": 335,
+                "Locus Tag/ molname": "syn257",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Nucleotide exchange factor": {
+                "# Copies": 406,
+                "Locus Tag/ molname": "syn543",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA (guanosine(37)-N1)-methyltransferase": {
+                "# Copies": 25,
+                "Locus Tag/ molname": "syn364",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Translation initiation factor IF-2": {
+                "# Copies": 460,
+                "Locus Tag/ molname": "syn297",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Protein-(glutamine-N5) methyltransferase, release factor-specific": {
+                "# Copies": 17,
+                "Locus Tag/ molname": "syn142",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L6": {
+                "# Copies": 716,
+                "Locus Tag/ molname": "syn656",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L35": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn199",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Excinuclease ABC subunit B": {
+                "# Copies": 49,
+                "Locus Tag/ molname": "syn825",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribosome recycling factor": {
+                "# Copies": 631,
+                "Locus Tag/ molname": "syn536",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glucose-6-phosphate isomerase": {
+                "# Copies": 266,
+                "Locus Tag/ molname": "syn445",
+                "Primary Function": "Metabolism"
+            },
+            "Ribulose-phosphate 3-epimerase": {
+                "# Copies": 209,
+                "Locus Tag/ molname": "syn262",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L13": {
+                "# Copies": 632,
+                "Locus Tag/ molname": "syn638",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Threonine--tRNA ligase": {
+                "# Copies": 306,
+                "Locus Tag/ molname": "syn222",
+                "Primary Function": "Metabolism"
+            },
+            "Glycine--tRNA ligase": {
+                "# Copies": 107,
+                "Locus Tag/ molname": "syn405",
+                "Primary Function": "Metabolism"
+            },
+            "16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase": {
+                "# Copies": 40,
+                "Locus Tag/ molname": "syn4",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L29": {
+                "# Copies": 533,
+                "Locus Tag/ molname": "syn663",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Elongation factor P": {
+                "# Copies": 115,
+                "Locus Tag/ molname": "syn391",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L11": {
+                "# Copies": 946,
+                "Locus Tag/ molname": "syn810",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Preprotein translocase subunit A": {
+                "# Copies": 573,
+                "Locus Tag/ molname": "syn95",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L31": {
+                "# Copies": 44,
+                "Locus Tag/ molname": "syn137",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA (m1A22) methyltransferase ": {
+                "# Copies": 19,
+                "Locus Tag/ molname": "syn408",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA 2-thiouridine(34) synthase": {
+                "# Copies": 72,
+                "Locus Tag/ molname": "syn387",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized rRNA methyltransferase": {
+                "# Copies": 317,
+                "Locus Tag/ molname": "syn448",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L7/L12": {
+                "# Copies": 765,
+                "Locus Tag/ molname": "syn806",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA topoisomerase IV subunit A": {
+                "# Copies": 156,
+                "Locus Tag/ molname": "syn453",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "PTS glucose transporter subunit IIA": {
+                "# Copies": 313,
+                "Locus Tag/ molname": "syn234",
+                "Primary Function": "Metabolism"
+            },
+            "Adenine phosphoribosyltransferase": {
+                "# Copies": 363,
+                "Locus Tag/ molname": "syn413",
+                "Primary Function": "Metabolism"
+            },
+            "Cytidylate kinase": {
+                "# Copies": 66,
+                "Locus Tag/ molname": "syn347",
+                "Primary Function": "Metabolism"
+            },
+            "Guanylate kinase": {
+                "# Copies": 186,
+                "Locus Tag/ molname": "syn203",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized RNA pseudouridine synthase": {
+                "# Copies": 97,
+                "Locus Tag/ molname": "syn517",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Deoxyguanosine kinase": {
+                "# Copies": 63,
+                "Locus Tag/ molname": "syn330",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L5": {
+                "# Copies": 703,
+                "Locus Tag/ molname": "syn659",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Phosphoribosylpyrophosphate synthetase": {
+                "# Copies": 315,
+                "Locus Tag/ molname": "syn831",
+                "Primary Function": "Metabolism"
+            },
+            "Double-stranded RNA binding RNase HI": {
+                "# Copies": 38,
+                "Locus Tag/ molname": "syn283",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribonucleotide-diphosphate reductase subunit alpha": {
+                "# Copies": 382,
+                "Locus Tag/ molname": "syn771",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glycerol kinase": {
+                "# Copies": 396,
+                "Locus Tag/ molname": "syn218",
+                "Primary Function": "Metabolism"
+            },
+            "30S ribosomal protein S5": {
+                "# Copies": 395,
+                "Locus Tag/ molname": "syn654",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Triose-phosphate isomerase": {
+                "# Copies": 410,
+                "Locus Tag/ molname": "syn727",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit D": {
+                "# Copies": 38,
+                "Locus Tag/ molname": "syn79",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Thymidine kinase": {
+                "# Copies": 202,
+                "Locus Tag/ molname": "syn140",
+                "Primary Function": "Metabolism"
+            },
+            "Nicotinate phosphoribosyltransferase": {
+                "# Copies": 165,
+                "Locus Tag/ molname": "syn614",
+                "Primary Function": "Metabolism"
+            },
+            "Signal recognition particle-docking protein": {
+                "# Copies": 88,
+                "Locus Tag/ molname": "syn429",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Methionine adenosyltransferase": {
+                "# Copies": 56,
+                "Locus Tag/ molname": "syn432",
+                "Primary Function": "Metabolism"
+            },
+            "Pre-16S rRNA nuclease ": {
+                "# Copies": 49,
+                "Locus Tag/ molname": "syn215",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "L16-binding dependent 50S subunit-maturation GTPase": {
+                "# Copies": 146,
+                "Locus Tag/ molname": "syn366",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Molecular chaperone": {
+                "# Copies": 1328,
+                "Locus Tag/ molname": "syn542",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "ptsH: Phosphocarrier protein": {
+                "# Copies": 289,
+                "Locus Tag/ molname": "syn694",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L21": {
+                "# Copies": 246,
+                "Locus Tag/ molname": "syn501",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized kinase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn495",
+                "Primary Function": "Metabolism"
+            },
+            "Phosphate acetyltransferase": {
+                "# Copies": 301,
+                "Locus Tag/ molname": "syn229",
+                "Primary Function": "Metabolism"
+            },
+            "Antitermination protein": {
+                "# Copies": 238,
+                "Locus Tag/ molname": "syn840",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "5'-Methylthioadenosine nucleosidase": {
+                "# Copies": 15,
+                "Locus Tag/ molname": "syn381",
+                "Primary Function": "Metabolism"
+            },
+            "Ribose 5-phosphate isomerase B": {
+                "# Copies": 207,
+                "Locus Tag/ molname": "syn800",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L32": {
+                "# Copies": 21,
+                "Locus Tag/ molname": "syn526",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribosome assembly cofactor": {
+                "# Copies": 140,
+                "Locus Tag/ molname": "syn301",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L2": {
+                "# Copies": 184,
+                "Locus Tag/ molname": "syn668",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Chromosome segregation protein": {
+                "# Copies": 202,
+                "Locus Tag/ molname": "syn415",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "dTMP kinase": {
+                "# Copies": 92,
+                "Locus Tag/ molname": "syn45",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized serine/threonine protein kinase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn264",
+                "Primary Function": "Metabolism"
+            },
+            "5-Formyltetrahydrofolate cyclo-ligase": {
+                "# Copies": 38,
+                "Locus Tag/ molname": "syn443",
+                "Primary Function": "Metabolism"
+            },
+            "Ribosome GTPase": {
+                "# Copies": 150,
+                "Locus Tag/ molname": "syn377",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA polymerase III subunit beta": {
+                "# Copies": 213,
+                "Locus Tag/ molname": "syn2",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribonuclease III": {
+                "# Copies": 59,
+                "Locus Tag/ molname": "syn418",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S3": {
+                "# Copies": 1001,
+                "Locus Tag/ molname": "syn665",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Fructose-1,6-bisphosphate aldolase": {
+                "# Copies": 775,
+                "Locus Tag/ molname": "syn131",
+                "Primary Function": "Metabolism"
+            },
+            "HPr(Ser) kinase/phosphatase": {
+                "# Copies": 131,
+                "Locus Tag/ molname": "syn821",
+                "Primary Function": "Metabolism"
+            },
+            "Exodeoxyribonuclease VII large subunit": {
+                "# Copies": 15,
+                "Locus Tag/ molname": "syn106",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glutamyl-tRNA amidotransferase subunit C": {
+                "# Copies": 91,
+                "Locus Tag/ molname": "syn689",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA polymerase III subunit alpha": {
+                "# Copies": 36,
+                "Locus Tag/ molname": "syn612",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Chromosome replication initiation protein": {
+                "# Copies": 15,
+                "Locus Tag/ molname": "syn609",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Phosphopyruvate hydratase": {
+                "# Copies": 998,
+                "Locus Tag/ molname": "syn213",
+                "Primary Function": "Metabolism"
+            },
+            "23S rRNA (uridine(1939)-m5)-methyltransferase": {
+                "# Copies": 70,
+                "Locus Tag/ molname": "syn434",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Lysine--tRNA ligase": {
+                "# Copies": 217,
+                "Locus Tag/ molname": "syn64",
+                "Primary Function": "Metabolism"
+            },
+            "Histidine--tRNA ligase": {
+                "# Copies": 255,
+                "Locus Tag/ molname": "syn288",
+                "Primary Function": "Metabolism"
+            },
+            "Ribonuclease P protein component": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn909",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Signal recognition particle protein": {
+                "# Copies": 365,
+                "Locus Tag/ molname": "syn360",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Translation initiation factor IF-1": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn649",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Transcription elongation factor": {
+                "# Copies": 396,
+                "Locus Tag/ molname": "syn253",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L28": {
+                "# Copies": 118,
+                "Locus Tag/ molname": "syn422",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase": {
+                "# Copies": 76,
+                "Locus Tag/ molname": "syn684",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L17": {
+                "# Copies": 117,
+                "Locus Tag/ molname": "syn644",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Cysteine--tRNA ligase": {
+                "# Copies": 114,
+                "Locus Tag/ molname": "syn837",
+                "Primary Function": "Metabolism"
+            },
+            "FMN reductase ": {
+                "# Copies": 281,
+                "Locus Tag/ molname": "syn29",
+                "Primary Function": "Metabolism"
+            },
+            "Translation elongation factor G": {
+                "# Copies": 672,
+                "Locus Tag/ molname": "syn150",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Elongation factor 4": {
+                "# Copies": 147,
+                "Locus Tag/ molname": "syn285",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA polymerase III subunit gamma and tau": {
+                "# Copies": 113,
+                "Locus Tag/ molname": "syn47",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Acetate kinase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn230",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA (N6-adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn270",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Thioredoxin-disulfide reductase": {
+                "# Copies": 100,
+                "Locus Tag/ molname": "syn819",
+                "Primary Function": "Metabolism"
+            },
+            "PolC-type DNA polymerase III": {
+                "# Copies": 104,
+                "Locus Tag/ molname": "syn303",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "16S rRNA (cytosine(1402)-N(4))-methyltransferase": {
+                "# Copies": 33,
+                "Locus Tag/ molname": "syn524",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L3": {
+                "# Copies": 434,
+                "Locus Tag/ molname": "syn671",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Serine hydroxymethyltransferase": {
+                "# Copies": 178,
+                "Locus Tag/ molname": "syn799",
+                "Primary Function": "Metabolism"
+            },
+            "Adenylyl-sulfate kinase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn931",
+                "Primary Function": "Metabolism"
+            },
+            "Phenylalanine--tRNA ligase subunit alpha": {
+                "# Copies": 293,
+                "Locus Tag/ molname": "syn529",
+                "Primary Function": "Metabolism"
+            },
+            "30S ribosomal protein S19": {
+                "# Copies": 630,
+                "Locus Tag/ molname": "syn667",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "UDP-galactopyranose mutase": {
+                "# Copies": 78,
+                "Locus Tag/ molname": "syn814",
+                "Primary Function": "Metabolism"
+            },
+            "Cysteine desulfurase": {
+                "# Copies": 51,
+                "Locus Tag/ molname": "syn441",
+                "Primary Function": "Metabolism"
+            },
+            "DNA-directed RNA polymerase subunit delta": {
+                "# Copies": 22,
+                "Locus Tag/ molname": "syn128",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "23S rRNA (guanosine(2251)-2'-O)-methyltransferase": {
+                "# Copies": 135,
+                "Locus Tag/ molname": "syn838",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Single-stranded DNA-binding protein": {
+                "# Copies": 107,
+                "Locus Tag/ molname": "syn26",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA ligase (NAD(+))": {
+                "# Copies": 48,
+                "Locus Tag/ molname": "syn690",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S16": {
+                "# Copies": 225,
+                "Locus Tag/ molname": "syn362",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "ATP-dependent Clp protease subunit B": {
+                "# Copies": 610,
+                "Locus Tag/ molname": "syn545",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "dUMP phosphatase ": {
+                "# Copies": 371,
+                "Locus Tag/ molname": "syn66",
+                "Primary Function": "Metabolism"
+            },
+            "DNA-formamidopyrimidine glycosylase": {
+                "# Copies": 121,
+                "Locus Tag/ molname": "syn610",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit": {
+                "# Copies": 55,
+                "Locus Tag/ molname": "syn144",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "FAD synthetase": {
+                "# Copies": 68,
+                "Locus Tag/ molname": "syn291",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L34": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn910",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Type I methionyl aminopeptidase": {
+                "# Copies": 69,
+                "Locus Tag/ molname": "syn650",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Dihydrofolate synthase": {
+                "# Copies": 35,
+                "Locus Tag/ molname": "syn823",
+                "Primary Function": "Metabolism"
+            },
+            "Phosphoglycerate kinase": {
+                "# Copies": 411,
+                "Locus Tag/ molname": "syn606",
+                "Primary Function": "Metabolism"
+            },
+            "Ribonuclease R": {
+                "# Copies": 140,
+                "Locus Tag/ molname": "syn775",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Aspartate--tRNA ligase": {
+                "# Copies": 191,
+                "Locus Tag/ molname": "syn287",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA (cytidine(34)-2'-O)-methyltransferase": {
+                "# Copies": 186,
+                "Locus Tag/ molname": "syn548",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S11": {
+                "# Copies": 228,
+                "Locus Tag/ molname": "syn646",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribosome biogenesis GTP-binding protein": {
+                "# Copies": 63,
+                "Locus Tag/ molname": "syn247",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Deoxyribonuclease IV": {
+                "# Copies": 22,
+                "Locus Tag/ molname": "syn109",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "ACP synthase": {
+                "# Copies": 50,
+                "Locus Tag/ molname": "syn513",
+                "Primary Function": "Metabolism"
+            },
+            "30S ribosomal protein S7": {
+                "# Copies": 498,
+                "Locus Tag/ molname": "syn149",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "SsrA-binding protein": {
+                "# Copies": 93,
+                "Locus Tag/ molname": "syn776",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Translation elongation factor Tu": {
+                "# Copies": 542,
+                "Locus Tag/ molname": "syn151",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized protein": {
+                "# Copies": 88,
+                "Locus Tag/ molname": "syn409",
+                "Primary Function": "Unclear"
+            },
+            "DNA-directed RNA polymerase subunit alpha": {
+                "# Copies": 187,
+                "Locus Tag/ molname": "syn645",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Tetracycline resistance ribosomal protection protein": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn913",
+                "Primary Function": "Human Diseases"
+            },
+            "Glutamyl-tRNA amidotransferase subunit A": {
+                "# Copies": 144,
+                "Locus Tag/ molname": "syn688",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Tyrosine--tRNA ligase": {
+                "# Copies": 101,
+                "Locus Tag/ molname": "syn613",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L15": {
+                "# Copies": 285,
+                "Locus Tag/ molname": "syn653",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Transcription antitermination factor": {
+                "# Copies": 18,
+                "Locus Tag/ molname": "syn107",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S18": {
+                "# Copies": 209,
+                "Locus Tag/ molname": "syn25",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "L-lactate dehydrogenase": {
+                "# Copies": 1100,
+                "Locus Tag/ molname": "syn475",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L36": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn648",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Mannose-6-phosphate isomerase": {
+                "# Copies": 44,
+                "Locus Tag/ molname": "syn435",
+                "Primary Function": "Metabolism"
+            },
+            "Primosomal protein": {
+                "# Copies": 41,
+                "Locus Tag/ molname": "syn608",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "23S rRNA (pseudouridine(1915)-N3)-methyltransferase": {
+                "# Copies": 123,
+                "Locus Tag/ molname": "syn361",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribosome-binding factor A": {
+                "# Copies": 194,
+                "Locus Tag/ molname": "syn289",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Thioredoxin": {
+                "# Copies": 445,
+                "Locus Tag/ molname": "syn65",
+                "Primary Function": "Metabolism"
+            },
+            "rRNA maturation RNase": {
+                "# Copies": 64,
+                "Locus Tag/ molname": "syn402",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L27": {
+                "# Copies": 134,
+                "Locus Tag/ molname": "syn499",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Methionine--tRNA ligase": {
+                "# Copies": 251,
+                "Locus Tag/ molname": "syn12",
+                "Primary Function": "Metabolism"
+            },
+            "Transketolase": {
+                "# Copies": 148,
+                "Locus Tag/ molname": "syn316",
+                "Primary Function": "Metabolism"
+            },
+            "Iron-sulfur cluster assembly scaffold protein": {
+                "# Copies": 19,
+                "Locus Tag/ molname": "syn442",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized DNA-binding protein": {
+                "# Copies": 26,
+                "Locus Tag/ molname": "syn817",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L16": {
+                "# Copies": 168,
+                "Locus Tag/ molname": "syn664",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S21": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn482",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribonuclease M5": {
+                "# Copies": 65,
+                "Locus Tag/ molname": "syn3",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S10": {
+                "# Copies": 725,
+                "Locus Tag/ molname": "syn672",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Nicotinate (nicotinamide) nucleotide adenylyltransferase": {
+                "# Copies": 65,
+                "Locus Tag/ molname": "syn380",
+                "Primary Function": "Metabolism"
+            },
+            "Glutamate--tRNA ligase": {
+                "# Copies": 142,
+                "Locus Tag/ molname": "syn126",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L33": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn930",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "N-acetylmannosamine-6-phosphate 2-epimerase": {
+                "# Copies": 30,
+                "Locus Tag/ molname": "syn494",
+                "Primary Function": "Metabolism"
+            },
+            "Dihydrolipoyl dehydrogenase": {
+                "# Copies": 182,
+                "Locus Tag/ molname": "syn228",
+                "Primary Function": "Metabolism"
+            },
+            "ptsI: Phosphoenolpyruvate--protein phosphotransferase": {
+                "# Copies": 352,
+                "Locus Tag/ molname": "syn233",
+                "Primary Function": "Metabolism"
+            },
+            "Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase": {
+                "# Copies": 122,
+                "Locus Tag/ molname": "syn414",
+                "Primary Function": "Metabolism"
+            },
+            "DNA polymerase III subunit delta": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn826",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Transcription termination/antitermination protein NusA": {
+                "# Copies": 464,
+                "Locus Tag/ molname": "syn300",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L23": {
+                "# Copies": 349,
+                "Locus Tag/ molname": "syn669",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Replicative DNA helicase": {
+                "# Copies": 118,
+                "Locus Tag/ molname": "syn834",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S13": {
+                "# Copies": 665,
+                "Locus Tag/ molname": "syn647",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "16S rRNA (guanine(527)-N(7))-methyltransferase": {
+                "# Copies": 131,
+                "Locus Tag/ molname": "syn874",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Type I glyceraldehyde-3-phosphate dehydrogenase": {
+                "# Copies": 1355,
+                "Locus Tag/ molname": "syn607",
+                "Primary Function": "Metabolism"
+            },
+            "Non-canonical purine NTP pyrophosphatase": {
+                "# Copies": 129,
+                "Locus Tag/ molname": "syn549",
+                "Primary Function": "Metabolism"
+            },
+            "Preprotein translocase subunit": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn774",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glutamyl-tRNA amidotransferase subunit B": {
+                "# Copies": 212,
+                "Locus Tag/ molname": "syn687",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S12": {
+                "# Copies": 122,
+                "Locus Tag/ molname": "syn148",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Heat-inducible transcription repressor": {
+                "# Copies": 220,
+                "Locus Tag/ molname": "syn544",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "16S rRNA processing protein": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn363",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S6": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn27",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "16S rRNA (cytidine(1402)-2'-O)-methyltransferase": {
+                "# Copies": 38,
+                "Locus Tag/ molname": "syn504",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Exodeoxyribonuclease VII small subunit": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn105",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Adenylate kinase": {
+                "# Copies": 213,
+                "Locus Tag/ molname": "syn651",
+                "Primary Function": "Metabolism"
+            },
+            "DNA polymerase I": {
+                "# Copies": 101,
+                "Locus Tag/ molname": "syn611",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "NAD(+) synthase": {
+                "# Copies": 251,
+                "Locus Tag/ molname": "syn378",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA pseudouridine(55) synthase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn290",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Chromosomal replication initiator protein": {
+                "# Copies": 148,
+                "Locus Tag/ molname": "syn1",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Phenylalanine--tRNA ligase subunit beta": {
+                "# Copies": 778,
+                "Locus Tag/ molname": "syn528",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L22": {
+                "# Copies": 373,
+                "Locus Tag/ molname": "syn666",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Endopeptidase La": {
+                "# Copies": 757,
+                "Locus Tag/ molname": "syn394",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "CTP synthase": {
+                "# Copies": 306,
+                "Locus Tag/ molname": "syn129",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized protease": {
+                "# Copies": 40,
+                "Locus Tag/ molname": "syn400",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Branched-chain alpha-keto acid dehydrogenase subunit E2": {
+                "# Copies": 182,
+                "Locus Tag/ molname": "syn227",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA N6-adenosine(37)-N6-threonylcarbamoyltransferase complex dimerization subunit": {
+                "# Copies": 67,
+                "Locus Tag/ molname": "syn271",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Cell division/cell wall cluster transcriptional repressor": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn525",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Flavin reductase": {
+                "# Copies": 160,
+                "Locus Tag/ molname": "syn302",
+                "Primary Function": "Metabolism"
+            },
+            "Recombination protein": {
+                "# Copies": 33,
+                "Locus Tag/ molname": "syn46",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uracil phosphoribosyltransferase": {
+                "# Copies": 362,
+                "Locus Tag/ molname": "syn798",
+                "Primary Function": "Metabolism"
+            },
+            "DNA-directed RNA polymerase subunit beta'": {
+                "# Copies": 546,
+                "Locus Tag/ molname": "syn803",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L4": {
+                "# Copies": 258,
+                "Locus Tag/ molname": "syn670",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Deoxynucleoside kinase": {
+                "# Copies": 23,
+                "Locus Tag/ molname": "syn382",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L19": {
+                "# Copies": 204,
+                "Locus Tag/ molname": "syn365",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Serine--tRNA ligase": {
+                "# Copies": 249,
+                "Locus Tag/ molname": "syn61",
+                "Primary Function": "Metabolism"
+            },
+            "Uncharacterized metallophosphoesterase": {
+                "# Copies": 36,
+                "Locus Tag/ molname": "syn431",
+                "Primary Function": "Unclear"
+            },
+            "Hypoxanthine phosphoribosyltransferase": {
+                "# Copies": 439,
+                "Locus Tag/ molname": "syn216",
+                "Primary Function": "Metabolism"
+            },
+            "Isoleucine--tRNA ligase": {
+                "# Copies": 219,
+                "Locus Tag/ molname": "syn519",
+                "Primary Function": "Metabolism"
+            },
+            "Excinuclease ABC subunit A": {
+                "# Copies": 144,
+                "Locus Tag/ molname": "syn824",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L20": {
+                "# Copies": 325,
+                "Locus Tag/ molname": "syn198",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S8": {
+                "# Copies": 217,
+                "Locus Tag/ molname": "syn657",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Chromosome segregation protein B": {
+                "# Copies": 31,
+                "Locus Tag/ molname": "syn328",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "UTP--glucose-1-phosphate uridylyltransferase": {
+                "# Copies": 336,
+                "Locus Tag/ molname": "syn115",
+                "Primary Function": "Metabolism"
+            },
+            "Deoxyribose-phosphate aldolase": {
+                "# Copies": 171,
+                "Locus Tag/ molname": "syn732",
+                "Primary Function": "Metabolism"
+            },
+            "Aminoacyl-tRNA hydrolase": {
+                "# Copies": 152,
+                "Locus Tag/ molname": "syn832",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized ATPase": {
+                "# Copies": 168,
+                "Locus Tag/ molname": "syn872",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Ribonucleotide reductase assembly protein": {
+                "# Copies": 50,
+                "Locus Tag/ molname": "syn772",
+                "Primary Function": "Metabolism"
+            },
+            "Translation initiation factor IF-3": {
+                "# Copies": 154,
+                "Locus Tag/ molname": "syn200",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "tRNA 4-thiouridine(8) synthase": {
+                "# Copies": 96,
+                "Locus Tag/ molname": "syn240",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Phosphoglycerate mutase (2,3-diphosphoglycerate-independent)": {
+                "# Copies": 322,
+                "Locus Tag/ molname": "syn729",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme": {
+                "# Copies": 141,
+                "Locus Tag/ molname": "syn885",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "NanoRNAse": {
+                "# Copies": 187,
+                "Locus Tag/ molname": "syn139",
+                "Primary Function": "Metabolism"
+            },
+            "Inorganic diphosphatase": {
+                "# Copies": 190,
+                "Locus Tag/ molname": "syn344",
+                "Primary Function": "Metabolism"
+            },
+            "tRNA lysidine(34) synthetase": {
+                "# Copies": 39,
+                "Locus Tag/ molname": "syn40",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Degradosome RNA helicase ": {
+                "# Copies": 120,
+                "Locus Tag/ molname": "syn410",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA gyrase subunit A": {
+                "# Copies": 298,
+                "Locus Tag/ molname": "syn7",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized transcriptional regulator": {
+                "# Copies": 18,
+                "Locus Tag/ molname": "syn620",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "UDP-glucose 4-epimerase GalE": {
+                "# Copies": 86,
+                "Locus Tag/ molname": "syn813",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L24": {
+                "# Copies": 305,
+                "Locus Tag/ molname": "syn660",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Arginine--tRNA ligase": {
+                "# Copies": 194,
+                "Locus Tag/ molname": "syn535",
+                "Primary Function": "Metabolism"
+            },
+            "Pyruvate kinase": {
+                "# Copies": 551,
+                "Locus Tag/ molname": "syn221",
+                "Primary Function": "Metabolism"
+            },
+            "DNA primase": {
+                "# Copies": 60,
+                "Locus Tag/ molname": "syn406",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Peptide chain release factor 1": {
+                "# Copies": 330,
+                "Locus Tag/ molname": "syn141",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S15": {
+                "# Copies": 96,
+                "Locus Tag/ molname": "syn294",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "50S ribosomal protein L18": {
+                "# Copies": 274,
+                "Locus Tag/ molname": "syn655",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Glucosamine-6-phosphate deaminase": {
+                "# Copies": 142,
+                "Locus Tag/ molname": "syn726",
+                "Primary Function": "Metabolism"
+            },
+            "Chromosome segregation protein A": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn327",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Maturation protease for ribosomal protein L27": {
+                "# Copies": 42,
+                "Locus Tag/ molname": "syn500",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Excinuclease ABC subunit C": {
+                "# Copies": 58,
+                "Locus Tag/ molname": "syn254",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized tRNA dihydrouridine synthase": {
+                "# Copies": 71,
+                "Locus Tag/ molname": "syn63",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "ATP-dependent DNA helicase": {
+                "# Copies": 218,
+                "Locus Tag/ molname": "syn695",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S2": {
+                "# Copies": 597,
+                "Locus Tag/ molname": "syn540",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S14": {
+                "# Copies": 331,
+                "Locus Tag/ molname": "syn658",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "16S rRNA (guanine(966)-N(2))-methyltransferase": {
+                "# Copies": 125,
+                "Locus Tag/ molname": "syn202",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Imidazoleglycerol-phosphate dehydratase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn918",
+                "Primary Function": "Metabolism"
+            },
+            "Proline--tRNA ligase": {
+                "# Copies": 221,
+                "Locus Tag/ molname": "syn282",
+                "Primary Function": "Metabolism"
+            },
+            "NAD(+) kinase": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn259",
+                "Primary Function": "Metabolism"
+            },
+            "50S ribosomal protein L10": {
+                "# Copies": 283,
+                "Locus Tag/ molname": "syn807",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S20": {
+                "# Copies": 190,
+                "Locus Tag/ molname": "syn82",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Purine-nucleoside phosphorylase": {
+                "# Copies": 629,
+                "Locus Tag/ molname": "syn747",
+                "Primary Function": "Metabolism"
+            },
+            "Leucine--tRNA ligase": {
+                "# Copies": 211,
+                "Locus Tag/ molname": "syn634",
+                "Primary Function": "Metabolism"
+            },
+            "Coenzyme A Disulfide Reductase": {
+                "# Copies": 127,
+                "Locus Tag/ molname": "syn887",
+                "Primary Function": "Metabolism"
+            },
+            "DNA topoisomerase IV subunit B": {
+                "# Copies": 157,
+                "Locus Tag/ molname": "syn452",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA repair protein": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn404",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "DNA-binding protein": {
+                "# Copies": 28,
+                "Locus Tag/ molname": "syn350",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Uncharacterized peroxiredoxin": {
+                "# Copies": 157,
+                "Locus Tag/ molname": "syn54",
+                "Primary Function": "Metabolism"
+            },
+            "UMP kinase": {
+                "# Copies": 144,
+                "Locus Tag/ molname": "syn537",
+                "Primary Function": "Metabolism"
+            },
+            "Ribosome small subunit-dependent GTPase A": {
+                "# Copies": 10,
+                "Locus Tag/ molname": "syn263",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Oligopeptidase ": {
+                "# Copies": 235,
+                "Locus Tag/ molname": "syn444",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "Methionyl-tRNA formyltransferase": {
+                "# Copies": 128,
+                "Locus Tag/ molname": "syn390",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S17": {
+                "# Copies": 530,
+                "Locus Tag/ molname": "syn662",
+                "Primary Function": "Genetic Information Processing"
+            },
+            "30S ribosomal protein S4": {
+                "# Copies": 172,
+                "Locus Tag/ molname": "syn238",
+                "Primary Function": "Genetic Information Processing"
+            }
+         }
+     },
+    "Solvent":{
+        "Water":{
+             "# Copies": 428066643,
+             "molname": "W"
+        },
+         "Sodium": {
+             "# Copies": 9680908,
+             "molname": "NA"
+         },
+         "Chloride": {
+             "# Copies": 5308661,
+             "molname": "CL"
+         }
+    }
+}
